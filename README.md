@@ -199,4 +199,3 @@ Looking for code snippets? Check out [SNIPPETS.md](./SNIPPETS.md).
 ## <a name="resources">🔗 Resources</a>
 
 - **Project Demo**: https://next-ecommerce-beta-mocha.vercel.app
-- **Assets**: https://drive.google.com/drive/folders/1U5XUbPeUFcsmUS6bMozYBcBQPblTQgcx?usp=sharing
