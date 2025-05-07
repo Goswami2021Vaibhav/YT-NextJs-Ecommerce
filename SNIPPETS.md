@@ -1413,3 +1413,110 @@ export const monthNames = [
 ```
 
 </details>
+
+
+# Icons 
+
+```js 
+
+// Admin Sidebar icons.
+import { AiOutlineDashboard } from "react-icons/ai";
+import { BiCategory } from "react-icons/bi";
+import { IoShirtOutline } from "react-icons/io5";
+import { MdOutlineShoppingBag } from "react-icons/md";
+import { LuUserRound } from "react-icons/lu";
+import { IoMdStarOutline } from "react-icons/io";
+import { MdOutlinePermMedia } from "react-icons/md";
+import { RiCoupon2Line } from "react-icons/ri";
+
+// Plus icon.
+import { FiPlus } from "react-icons/fi";
+
+// Admin dashboard icons.
+import { BiCategory } from "react-icons/bi";
+import { IoShirtOutline } from "react-icons/io5";
+import { LuUserRound } from "react-icons/lu";
+import { MdOutlineShoppingBag } from "react-icons/md";
+
+// Star icon. 
+import { MdOutlineStar } from "react-icons/md";
+
+// Quick add component icons.  
+import { BiCategory } from "react-icons/bi";
+import { IoShirtOutline } from "react-icons/io5";
+import { RiCoupon2Line } from "react-icons/ri";
+import { MdOutlinePermMedia } from "react-icons/md";
+
+// Home page icons. 
+import { GoArrowRight } from "react-icons/go";
+import { GiReturnArrow } from "react-icons/gi";
+import { FaShippingFast } from "react-icons/fa";
+import { BiSupport } from "react-icons/bi";
+import { RiDiscountPercentFill } from "react-icons/ri";
+
+// Circular close icon.
+import { IoCloseCircleOutline } from "react-icons/io5";
+
+// Checkout page shipping icon. 
+import { FaShippingFast } from "react-icons/fa";
+
+// my-account page icons. 
+import { HiOutlineShoppingBag } from "react-icons/hi2";
+import { IoCartOutline } from "react-icons/io5";
+
+// Product details component icons.
+import { IoIosStar } from "react-icons/io";
+import { HiMinus } from "react-icons/hi";
+import { HiPlus } from "react-icons/hi";
+
+// Eye icons. 
+import { FaRegEyeSlash } from "react-icons/fa";
+import { FaRegEye } from "react-icons/fa6";
+
+// Search icon.  
+import { HiOutlineSearch } from "react-icons/hi";
+
+// App sidebar close and arrow icon.
+import { LuChevronRight } from "react-icons/lu";
+import { IoMdClose } from "react-icons/io";
+
+// Download icon. 
+import { MdOutlineFileDownload } from "react-icons/md";
+
+// Media component icons.  
+import { BsThreeDotsVertical } from "react-icons/bs";
+import { MdOutlineEdit } from "react-icons/md";
+import { IoIosLink } from "react-icons/io";
+import { AiOutlineDelete } from "react-icons/ai";
+
+// Menu bar icon.  
+import { RiMenu4Fill } from "react-icons/ri";
+
+// User dropdown icon.  
+import { IoShirtOutline } from "react-icons/io5";
+import { MdOutlineShoppingBag } from "react-icons/md";
+
+// Footer icons.  
+import { IoLocationOutline } from "react-icons/io5";
+import { IoMailOutline } from "react-icons/io5";
+import { IoCallOutline } from "react-icons/io5";
+import { AiOutlineYoutube } from "react-icons/ai";
+import { FaInstagram } from "react-icons/fa";
+import { RiFacebookCircleLine } from "react-icons/ri";
+import { FiTwitter } from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
+
+// Header icons.  
+import { IoIosSearch } from "react-icons/io";
+import { LuCircleUser } from "react-icons/lu";
+import { IoMdMenu } from "react-icons/io";
+import { IoMdClose } from "react-icons/io";
+
+// Main slider icon. 
+import { LuChevronLeft, LuChevronRight } from "react-icons/lu";
+
+// Testimonial component icons.  
+import { BsChatQuote } from "react-icons/bs";
+import { IoMdStar } from "react-icons/io";
+
+```
