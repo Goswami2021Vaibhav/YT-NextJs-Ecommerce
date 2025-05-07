@@ -1,11 +1,14 @@
 <div align="center">
  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-2B6CB0?style=for-the-badge&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-  <h3 align="center">🛍️ 🛒 Next.js 15 E-Commerce Website — Modern Full-Stack Online Store</h3>
+
+<h3 align="center">🛍️ 🛒 Next.js 15 E-Commerce Website — Modern Full-Stack Online Store</h3>
 
 </div>
 <div>
